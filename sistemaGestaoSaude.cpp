@@ -464,7 +464,7 @@ void faturamentoClinica (struct ConsultaMarcada con[], struct Medico med[], int 
 		}
 	}
 	total = soma * 0.05;
-	cout << "\nO faturamento da Clinica foi de: " << total << " reais." << endl;
+	cout << "\nO Faturamento da Clinica foi de: " << total << " reais." << endl;
 	getch();
 }
 
